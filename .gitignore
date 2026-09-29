@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
+# Model checkpoints
+checkpoints/
+models/
+
+# Local results
+results/*.csv
+
+# Environment / secrets
+.env
+
+# VS Code
+.vscode/
